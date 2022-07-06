@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/RaminMahmoudi/ternaryphasediagram">
-    <img alt="https://github.com/RaminMahmoudi/ternaryphasediagram/blob/main/Ternary.png">
+    <img alt="https://github.com/RaminMahmoudi/ternaryphasediagram/blob/main/Ternary.png"/>
   </a>
   <h1>Plotting Ternary Phase Diagram with MATLAB</h1>
   <p>
