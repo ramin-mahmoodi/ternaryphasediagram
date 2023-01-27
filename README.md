@@ -4,7 +4,7 @@
   </a>
   <h1>Plotting Ternary Phase Diagram with MATLAB</h1>
   <p>
-    A simple matlab code to Plotting Ternary Phase Diagram for hydrocarbons.
+    A simple matlab code to Plotting Ternary Phase Diagram for hydrocarbons in given temperature and pressure.
   </p>
   </div>
   
